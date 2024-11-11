@@ -45,4 +45,10 @@ I am **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innova
 
 ### 📈 GitHub Stats
 ![TshwetsoMo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TshwetsoMo&show_icons=true&theme=radical)
+### 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TshwetsoMo&layout=compact&theme=radical)
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=TshwetsoMo&theme=radical&margin-w=15)
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=TshwetsoMo&color=brightgreen)
 
