@@ -28,10 +28,10 @@ I'm **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innovat
 - **Email**: tshwetsomomokgatlhe98@gmail.com
 
 ### 🔗 Featured Repositories
-- [![Term 1 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/ombd)
-- [![Term 2 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/repo-name)
-- [![Term 3 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/tga)
-- [![Term 4 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/neihbourgoods)
+- [Term 1 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/ombd)
+- [Term 2 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/repo-name)
+- [Term 3 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/tga)
+- [Term 4 Project](https://img.shields.io/badge/-Repo%20Name-blue)](https://github.com/TshwetsoMo/neihbourgoods)
 
 
 ### 📈 GitHub Stats
