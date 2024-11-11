@@ -29,7 +29,7 @@ I'm **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innovat
 
 ### 🔗 Featured Repositories
 - [![Term 1 Project](https://img.shields.io/badge/-Term%201%20Project-blue)](https://github.com/TshwetsoMo/ombd)
-- [![Term 2 Project](https://img.shields.io/badge/-Term%202%20Project-blue)](https://github.com/TshwetsoMo/repo-name)
+- [![Term 2 Project](https://img.shields.io/badge/-Term%202%20Project-blue)](https://github.com/TristanStormDesign/Sportify.git)
 - [![Term 3 Project](https://img.shields.io/badge/-Term%203%20Project-blue)](https://github.com/TshwetsoMo/tga)
 - [![Term 4 Project](https://img.shields.io/badge/-Term%204%20Project-blue)](https://github.com/TshwetsoMo/neihbourgoods)
 
