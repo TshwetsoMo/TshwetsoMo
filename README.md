@@ -6,7 +6,7 @@
    <img src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-I'm **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innovative solutions and contributing to impactful projects. My focus is on creating efficient and scalable web applications with a modern tech stack.
+I am **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innovative solutions and contributing to impactful projects. My focus is on creating efficient and scalable web applications with a modern tech stack.
 
 ### 🚀 About Me
 - 🔭 **Currently Working On**: Developing a robust MERN stack web app deployed on Azure for seamless user experiences and high scalability.
