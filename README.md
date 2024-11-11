@@ -3,7 +3,7 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
    <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
-   <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+   <img src="YOUR-DEFAULT-IMAGE">
 </picture>
 
 I'm **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innovative solutions and contributing to impactful projects. My focus is on creating efficient and scalable web applications with a modern tech stack.
