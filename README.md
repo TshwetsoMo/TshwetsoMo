@@ -34,10 +34,13 @@ I am **Tshwetso Mokgatlhe**, a passionate developer dedicated to building innova
 - **Email**: tshwetsomomokgatlhe98@gmail.com
 
 ### 🔗 Featured Repositories
-- [![Term 1 Project](https://img.shields.io/badge/-Term%201%20Project-blue)](https://github.com/TshwetsoMo/ombd)
-- [![Term 2 Project](https://img.shields.io/badge/-Term%202%20Project-blue)](https://github.com/TristanStormDesign/Sportify.git)
-- [![Term 3 Project](https://img.shields.io/badge/-Term%203%20Project-blue)](https://github.com/TshwetsoMo/tga)
-- [![Term 4 Project](https://img.shields.io/badge/-Term%204%20Project-blue)](https://github.com/TshwetsoMo/neihbourgoods)
+#### Semester 1
+- [![Term 1 Project](https://img.shields.io/badge/-Term%201%20Project-blue)](https://github.com/Tsebo200/Aureum-Elegance-Backend.git)
+- [![Term 2 Project](https://img.shields.io/badge/-Term%202%20Project-blue)](https://github.com/Tsebo200/Aureum-Elegance-Frontend.git)
+
+#### Semester 2
+- [![Term 3 Project](https://img.shields.io/badge/-Term%203%20Project-blue)](https://github.com/TshwetsoMo/TimeLinked.git)
+- [![Term 4 Project](https://img.shields.io/badge/-Term%204%20Project-blue)](https://github.com/TshwetsoMo/bua.git)
 
 ### 📈 GitHub Stats
 ![TshwetsoMo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TshwetsoMo&show_icons=true&theme=radical)
