@@ -1,15 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
-</p>
-
 <h1 align="center">Hi, my name is Tshwetso 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Tshwetso+K.+Mokgatlhe;Developer+%7C+Designer+%7C+Creative+Technologist;Building+meaningful+digital+experiences;@tshwetso.dev+%7C+@tshwetso+on+LinkedIn%2C+Behance%2C+GitHub;Welcome+to+my+creative+tech+space!+🚀" alt="Typing SVG" />
-</p>
-
----
 
 <img src="https://github.com/TshwetsoMo/TshwetsoMo/blob/main/TSHWETSO.png?raw=true" alt="Banner Text" width="100%" />
 
@@ -54,7 +43,7 @@ I believe in technology that **empowers communities**, not just users.
 
 #### 🧩 [Bua](https://github.com/TshwetsoMo/bua)
 > **Empowering Student Voices Through AI Advocacy**  
-> A web platform enabling learners to anonymously report unfair school policies and generate anonymised “School Journals” for change.  
+> An AI advisor and reporting hub that helps students get answers, surface issues, and drive change at school privately and safely.  
 **Tech:** Next.js · TypeScript · Firebase · Gemini AI  
 🌍 *Role:* Lead Developer & UX Designer  
 
@@ -62,9 +51,9 @@ I believe in technology that **empowers communities**, not just users.
 
 #### ⏳ [TimeLink](https://github.com/TshwetsoMo/TimeLinked)
 > **Time-Capsule Journaling for Future Reflection**  
-> Users write, store, and send messages to their future selves — integrating AI reflections and daily prompts.  
-**Tech:** React · Firebase · Framer Motion · TailwindCSS  
-🎨 *Role:* UX Designer & Frontend Developer  
+> Users write, store, and send messages to their future selves and loved ones. Integrating writing to private, public or just friends list.  
+**Tech:** React · Firebase · Framer Motion · TailwindCSS · Expo
+🎨 *Role:* UX Designer & Full-Stack Developer  
 
 ---
 
@@ -72,13 +61,13 @@ I believe in technology that **empowers communities**, not just users.
 > **Luxury Jewellery E-Commerce for the Modern Maker**  
 > Handmade jewellery platform with real-time inventory, custom order pages, and visual storytelling.  
 **Tech:** React · Node.js · Express · MongoDB  
-💼 *Role:* Project Manager & Full-Stack Developer  
+💼 *Role:* Full-Stack Developer  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/tshwetso" target="_blank">
+  <a href="https://www.linkedin.com/in/tshwetso-mokgatlhe-a032672a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tshwetsomomokgatlhe98@gmail.com" target="_blank">
@@ -90,7 +79,7 @@ I believe in technology that **empowers communities**, not just users.
   <a href="https://github.com/TshwetsoMo" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.behance.net/tshwetso" target="_blank">
+  <a href="https://www.behance.net/tshwetsmokgatl1" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </p>
