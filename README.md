@@ -56,8 +56,8 @@ Hi, I am **Tshwetso K. Mokgatlhe**, I'm a multidisciplinary developer and design
 ---
 
 #### 💍 [Aureum Elegance](https://github.com/Tsebo200/Aureum-Elegance-Frontend.git)
-> **Luxury Jewellery E-Commerce for the Modern Maker**  
-> Handmade jewellery platform with real-time inventory, custom order pages, and visual storytelling.  
+> **Invenyory Management System for a Perfume Manufacturer**  
+> Locally made perfume platform with real-time inventory, custom order pages, and admin dashboard.  
 **Tech:** React · Node.js · Express · MongoDB  
 💼 *Role:* Full-Stack Developer  
 
