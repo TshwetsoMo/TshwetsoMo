@@ -10,7 +10,7 @@ Hi, I am **Tshwetso K. Mokgatlhe**, I'm a multidisciplinary developer and design
 
 ---
 
-#### 💻 Technical Expertise
+### 💻 Technical Expertise
 - **Frontend Development:** Skilled in building responsive, accessible, and scalable interfaces using **React**, **Next.js**, **TypeScript**, and **TailwindCSS**.  
 - **Backend Development:** Proficient in **Node.js**, **Express**, and **ASP.NET Core**, with experience designing RESTful APIs and managing server-side logic.  
 - **Database Management:** Strong understanding of **MongoDB**, **PostgreSQL**, and **Firebase Firestore** for efficient data modeling and real-time updates.  
