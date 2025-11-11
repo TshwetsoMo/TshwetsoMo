@@ -94,7 +94,7 @@
 ---
 
 ### 🪄 Quote
-> “Design is where empathy meets engineering.” – *T.K. Mokgatlhe*
+> “Do the most.” – *T.K. Mokgatlhe*
 
 I’m always looking to collaborate on **innovative projects** that combine **creativity, social purpose, and technology**.  
 Let’s build something that outlasts us. ✨  
