@@ -12,13 +12,6 @@
 
 ---
 
-### 🧠 Professional Summary
-I’m a passionate developer dedicated to crafting efficient, scalable, and visually striking web experiences.  
-My goal is to bridge the gap between **design thinking and technical execution**, creating tools that improve real-world interaction, accessibility, and creativity.  
-I believe in technology that **empowers communities**, not just users.
-
----
-
 ### 🚀 Current Focus
 - 🔭 **Working On:** A robust MERN stack web app deployed on Azure for seamless user experience and scalability.  
 - 🌱 **Learning:** Advanced cloud architecture & optimization across **Azure, AWS, and GCP**.  
