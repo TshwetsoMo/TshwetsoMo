@@ -6,18 +6,15 @@
 ---
 
 ### 🧭 About Me
-👋 **Tshwetso K. Mokgatlhe** — based in Pretoria, Gauteng, South Africa 🇿🇦  
-🎓 Final-year **Interaction Development & UX Design** student at **The Open Window Institute**  
-💡 Passionate about building **human-centred digital ecosystems** that merge design, functionality, and ethical AI.  
-🌍 Exploring the intersection of **software engineering, product design, and innovation for African contexts.**
+Hi, I am **Tshwetso K. Mokgatlhe**, I'm a multidisciplinary developer and designer based in Pretoria, South Africa. As a final-year Interaction Development and UX Design student at The Open Window Institute, I have learned to combine human-centred design with technical precision to build meaningful digital experiences. I am passionate about innovation, ethics, and accessibility, I explore how technology can empower local communities through creativity and empathy.
 
 ---
 
-### 🚀 Current Focus
-- 🔭 **Working On:** A robust MERN stack web app deployed on Azure for seamless user experience and scalability.  
-- 🌱 **Learning:** Advanced cloud architecture & optimization across **Azure, AWS, and GCP**.  
-- 👯 **Collaborating On:** Reimagining apps not available in South Africa — for South Africans.  
-- ⚡ **Fun Fact:** I love automating everyday routines with code!
+#### 💻 Technical Expertise
+- **Frontend Development:** Skilled in building responsive, accessible, and scalable interfaces using **React**, **Next.js**, **TypeScript**, and **TailwindCSS**.  
+- **Backend Development:** Proficient in **Node.js**, **Express**, and **ASP.NET Core**, with experience designing RESTful APIs and managing server-side logic.  
+- **Database Management:** Strong understanding of **MongoDB**, **PostgreSQL**, and **Firebase Firestore** for efficient data modeling and real-time updates.  
+- **Cloud & DevOps:** Familiar with **Azure**, **AWS**, **Docker**, and deployment pipelines for cloud-based full-stack applications.  
 
 ---
 
@@ -30,6 +27,13 @@
   <!-- Cloud & Tools -->
   <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,figma,xd,illustrator" />
 </p>
+
+---
+
+### 🚀 Current Focus
+- 🔭 **Working On:** AI integration development.  
+- 🌱 **Learning:** Advanced cloud architecture & optimization across **Azure, AWS, and GCP**.   
+- ⚡ **Fun Fact:** I want to automate everyday routines with code!
 
 ---
 
